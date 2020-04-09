@@ -1,0 +1,57 @@
+*{
+  margin:0;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+html,body{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+  background-size:cover; 
+  box-sizing:border-box;
+  background-position:center center;
+  background-attachment: fixed;
+  background-color:gray;
+  background-repeat:no-repeat;
+  text-align:center;
+  justify-content: center;
+  display:flex;
+  align-items: center;
+  background-image:url("./images/street-edit.jpg");
+  height:100%;
+}
+
+
+
+.Page{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+.Forms{
+  align-items:center;
+  display:flex;
+}
+.Links p{
+  color:white;
+}
+input.formA::placeholder{
+  color:rgb(255, 255, 255, .6);
+  opacity:1;
+}
