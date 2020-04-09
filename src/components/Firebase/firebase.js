@@ -1,6 +1,8 @@
 import App from "../../App";
 import app from "firebase";
 import 'firebase/auth'
+
+/* 
 const fconfig = {
     apiKey: "AIzaSyDhkfwpL0auu8aXX05ld5NJFF4jgFn_wOc",
     authDomain: "login-auth-a94dc.firebaseapp.com",
@@ -8,7 +10,7 @@ const fconfig = {
     projectId: "login-auth-a94dc",
     storageBucket: "login-auth-a94dc.appspot.com",
     messagingSenderId: "733996694716",
-    };
+    };*/
     const config = {
         apiKey: process.env.REACT_APP_API_KEY,
         authDomain: process.env.REACT_APP_AUTH_DOMAIN,
@@ -16,7 +18,7 @@ const fconfig = {
         projectId: process.env.REACT_APP_PROJECT_ID,
         storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
         messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-      };
+      };/** 
 const prodConfig = {
     apiKey: "AIzaSyDhkfwpL0auu8aXX05ld5NJFF4jgFn_wOc",
     authDomain: "login-auth-a94dc.firebaseapp.com",
@@ -25,7 +27,8 @@ const prodConfig = {
     storageBucket: "login-auth-a94dc.appspot.com",
     messagingSenderId: "733996694716",
     };
-    const devConfig = {
+    */
+   /**  const devConfig = {
         apiKey: "AIzaSyDhkfwpL0auu8aXX05ld5NJFF4jgFn_wOc",
         authDomain: "login-auth-a94dc.firebaseapp.com",
         databaseURL: "https://login-auth-a94dc.firebaseio.com",
@@ -33,7 +36,7 @@ const prodConfig = {
         storageBucket: "login-auth-a94dc.appspot.com",
         messagingSenderId: "733996694716",
         };
-
+*/
 //const config = process.env.NODE_ENV === 'production' ? prodConfig : devConfig;
     class Firebase{
         constructor(){
