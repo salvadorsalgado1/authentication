@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/authentication/static/css/main.5b97cb08.chunk.css",
-    "main.js": "/authentication/static/js/main.7cb03229.chunk.js",
-    "main.js.map": "/authentication/static/js/main.7cb03229.chunk.js.map",
+    "main.css": "/authentication/static/css/main.904d1f6d.chunk.css",
+    "main.js": "/authentication/static/js/main.83eb123c.chunk.js",
+    "main.js.map": "/authentication/static/js/main.83eb123c.chunk.js.map",
     "runtime-main.js": "/authentication/static/js/runtime-main.2d76480d.js",
     "runtime-main.js.map": "/authentication/static/js/runtime-main.2d76480d.js.map",
-    "static/js/2.e92156f2.chunk.js": "/authentication/static/js/2.e92156f2.chunk.js",
-    "static/js/2.e92156f2.chunk.js.map": "/authentication/static/js/2.e92156f2.chunk.js.map",
+    "static/js/2.1f010a28.chunk.js": "/authentication/static/js/2.1f010a28.chunk.js",
+    "static/js/2.1f010a28.chunk.js.map": "/authentication/static/js/2.1f010a28.chunk.js.map",
     "index.html": "/authentication/index.html",
-    "precache-manifest.9324a36aa608d5d208c5e5102998bd75.js": "/authentication/precache-manifest.9324a36aa608d5d208c5e5102998bd75.js",
+    "precache-manifest.cb5ece92a305d89aa68b421ae75f16cc.js": "/authentication/precache-manifest.cb5ece92a305d89aa68b421ae75f16cc.js",
     "service-worker.js": "/authentication/service-worker.js",
-    "static/css/main.5b97cb08.chunk.css.map": "/authentication/static/css/main.5b97cb08.chunk.css.map",
+    "static/css/main.904d1f6d.chunk.css.map": "/authentication/static/css/main.904d1f6d.chunk.css.map",
     "static/media/react.png": "/authentication/static/media/react.b5ff618e.png",
     "static/media/index.css": "/authentication/static/media/street-edit.67b4a991.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2d76480d.js",
-    "static/js/2.e92156f2.chunk.js",
-    "static/css/main.5b97cb08.chunk.css",
-    "static/js/main.7cb03229.chunk.js"
+    "static/js/2.1f010a28.chunk.js",
+    "static/css/main.904d1f6d.chunk.css",
+    "static/js/main.83eb123c.chunk.js"
   ]
 }
