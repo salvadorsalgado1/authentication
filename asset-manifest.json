@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/authentication/static/css/main.4c4ebaf1.chunk.css",
-    "main.js": "/authentication/static/js/main.6a7ec8e8.chunk.js",
-    "main.js.map": "/authentication/static/js/main.6a7ec8e8.chunk.js.map",
+    "main.js": "/authentication/static/js/main.84b488f8.chunk.js",
+    "main.js.map": "/authentication/static/js/main.84b488f8.chunk.js.map",
     "runtime-main.js": "/authentication/static/js/runtime-main.2d76480d.js",
     "runtime-main.js.map": "/authentication/static/js/runtime-main.2d76480d.js.map",
     "static/js/2.084c3f3b.chunk.js": "/authentication/static/js/2.084c3f3b.chunk.js",
     "static/js/2.084c3f3b.chunk.js.map": "/authentication/static/js/2.084c3f3b.chunk.js.map",
     "index.html": "/authentication/index.html",
-    "precache-manifest.094887bb89bda8d0b26ac57103bdbbaa.js": "/authentication/precache-manifest.094887bb89bda8d0b26ac57103bdbbaa.js",
+    "precache-manifest.7fb0e4495815dbdff29421887c4c03f5.js": "/authentication/precache-manifest.7fb0e4495815dbdff29421887c4c03f5.js",
     "service-worker.js": "/authentication/service-worker.js",
     "static/css/main.4c4ebaf1.chunk.css.map": "/authentication/static/css/main.4c4ebaf1.chunk.css.map",
     "static/media/logo.png": "/authentication/static/media/logo.e39c3e7f.png",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2d76480d.js",
     "static/js/2.084c3f3b.chunk.js",
     "static/css/main.4c4ebaf1.chunk.css",
-    "static/js/main.6a7ec8e8.chunk.js"
+    "static/js/main.84b488f8.chunk.js"
   ]
 }
